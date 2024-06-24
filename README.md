@@ -38,5 +38,5 @@ Birmingham today tomorrow 2 days time
 If you want to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://example.com) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
