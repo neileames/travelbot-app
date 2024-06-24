@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="mytravel flask app">
+    <meta name="keywords" content="travel destination itinerary">
+    <meta name="author" content="Neil Eames">
+
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style.css') }}">
+
+     <title>Assignment 2</title>
+</head>
+
+   <p>An unexpected error has occurred.</p>
+   <br />
+   <p><a href="tel:9999-999-999">For assistance, please call 9999 999 999</a></p>
+   <p><a href="mailto:helpdesk@mytravel.com">Email Us</a></p>
+
+   <br /><br />
+
+   <a href="{{ url_for('home') }}">Go Back</a>
