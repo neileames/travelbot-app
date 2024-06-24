@@ -4,6 +4,7 @@ Welcome to the **travelbot** repository.
 
 This travel bot allows the user to query weather details for the coming 5 days as extracted via the Openweather API.
 
+![](./help-screen.png)
 
 Examples:
 
