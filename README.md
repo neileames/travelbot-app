@@ -22,10 +22,13 @@ Therefore, the above ‘chatty’ request examples can optionally be made ‘sho
 Birmingham tomorrow
 June 23 Stonehenge
 The Cotswolds Cumbria Bristol June 23
-Birmingham today tomorrow 2 days time
-
-
-
+Birmingham today tomorrow 2 days time  
+  
+  
+Note: weather.sqlite contains usable data.  
+If you want to use the 'Refresh Data' option, you will need to obtain an API key from [openweathermap.org](https://openweathermap.org)  
+then update 'temp_api_key.py'.  
+  
 
 ## Run the project:
 
